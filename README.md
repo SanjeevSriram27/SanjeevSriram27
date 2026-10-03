@@ -4,7 +4,7 @@
 
 ### Software Engineer · Backend & Security · Coimbatore, India
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated GIF" width="400"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated GIF" width="800"/>
 
 <br/>
 
