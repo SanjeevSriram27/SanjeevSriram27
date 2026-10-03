@@ -34,7 +34,6 @@ Software Engineer with hands-on experience building and maintaining **production
 - Led migration from **New Relic → OpenTelemetry + SigNoz** with distributed tracing, business metrics, Kubernetes metadata instrumentation, and Celery worker monitoring
 - Resolved critical production incidents: worker crash loops, ALB 500s, OpenTelemetry CPU spikes, and config regressions during live deployments
 - Implemented security audit fixes: IDOR vulnerabilities, CORS hardening, credential isolation, rate limiting, ownership validation, CSP/HSTS headers, and auth enforcement
-- Cut high-latency save operations from **33–52 seconds to sub-second** by offloading DB-heavy workflows to Celery workers
 - Built and deployed service landing page infrastructure with FastAPI, React/Vite, nginx reverse proxying, and SSM-based deployments
 
 ---
