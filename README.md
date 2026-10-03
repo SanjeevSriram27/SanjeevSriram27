@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Sanjeev Sriram S G
+# Hi there, I'm Sanjeev Sriram S G
 
 ### Software Engineer · Backend & Security · Coimbatore, India
 
@@ -15,31 +15,31 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Software Engineer with hands-on experience building and maintaining **production-scale backend systems** across Django, FastAPI, React, Angular, Kubernetes, Redis, and cloud infrastructure. I've worked on observability migration, distributed caching, security remediation, and high-scale API optimization, with a strong foundation in system design, debugging, and performance engineering.
 
-- 🔭 Working on production backend, security, and infrastructure problems
-- 🎓 B.E. Computer Science & Engineering @ KGiSL Institute of Technology (2022 – 2026)
-- 💬 Ask me about: caching architectures, observability, Celery, Kubernetes, API security
-- 🗣️ Languages: Tamil (Native), English (Proficient)
+- Working on production backend, security, and infrastructure problems
+- B.E. Computer Science & Engineering @ KGiSL Institute of Technology (2022 – 2026)
+- Ask me about: caching architectures, observability, Celery, Kubernetes, API security
+- Languages: Tamil (Native), English (Proficient)
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Developer Intern (Backend & Security) — [Topmate.io](https://topmate.io)
 
-- 🚀 Engineered a **production-grade CDN caching architecture** (Redis, CloudFront, Cloudflare, Lambda, SNS, Celery), improving cache invalidation reliability and reducing backend load
-- 📊 Led migration from **New Relic → OpenTelemetry + SigNoz** with distributed tracing, business metrics, Kubernetes metadata instrumentation, and Celery worker monitoring
-- 🛠️ Resolved critical production incidents: worker crash loops, ALB 500s, OpenTelemetry CPU spikes, and config regressions during live deployments
-- 🔐 Implemented security audit fixes: IDOR vulnerabilities, CORS hardening, credential isolation, rate limiting, ownership validation, CSP/HSTS headers, and auth enforcement
-- ⚡ Cut high-latency save operations from **33–52 seconds to sub-second** by offloading DB-heavy workflows to Celery workers
-- 🌐 Built and deployed service landing page infrastructure with FastAPI, React/Vite, nginx reverse proxying, and SSM-based deployments
+- Engineered a **production-grade CDN caching architecture** (Redis, CloudFront, Cloudflare, Lambda, SNS, Celery), improving cache invalidation reliability and reducing backend load
+- Led migration from **New Relic → OpenTelemetry + SigNoz** with distributed tracing, business metrics, Kubernetes metadata instrumentation, and Celery worker monitoring
+- Resolved critical production incidents: worker crash loops, ALB 500s, OpenTelemetry CPU spikes, and config regressions during live deployments
+- Implemented security audit fixes: IDOR vulnerabilities, CORS hardening, credential isolation, rate limiting, ownership validation, CSP/HSTS headers, and auth enforcement
+- Cut high-latency save operations from **33–52 seconds to sub-second** by offloading DB-heavy workflows to Celery workers
+- Built and deployed service landing page infrastructure with FastAPI, React/Vite, nginx reverse proxying, and SSM-based deployments
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -92,7 +92,7 @@ Software Engineer with hands-on experience building and maintaining **production
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -102,13 +102,13 @@ Software Engineer with hands-on experience building and maintaining **production
 
 ---
 
-## 🎓 Education
+## Education
 
 - **B.E. Computer Science and Engineering** — KGiSL Institute of Technology, Coimbatore (2022 – 2026)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -119,12 +119,12 @@ Software Engineer with hands-on experience building and maintaining **production
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm open to opportunities and collaborations in backend engineering, security, and infrastructure. Reach me at **sanjeevsriramsg@gmail.com**.
 
 <div align="center">
 
-⭐ *Thanks for stopping by!* ⭐
+ *Thanks for stopping by!* 
 
 </div>
