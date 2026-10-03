@@ -4,9 +4,7 @@
 
 ### Software Engineer · Backend & Security · Coimbatore, India
 
-<!-- 🎞️ REPLACE the src below with the direct .gif link (it should end in .gif, e.g. https://i.pinimg.com/originals/xx/xx/xx/xxxx.gif).
-     Original Pinterest link: https://pin.it/x3vsxNAve -->
-<img src="https://i.pinimg.com/1200x/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated GIF" width="400"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated GIF" width="400"/>
 
 <br/>
 
