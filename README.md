@@ -114,16 +114,7 @@ Software Engineer with hands-on experience building and maintaining **production
 ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjeevSriram27&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevSriram27&layout=compact&theme=tokyonight&hide_border=true)
 
-**Organization Contributions (Topmate.io, private repositories)**
-
-![Total Commits](https://img.shields.io/badge/Total%20Commits-~247-38bdae?style=flat-square&labelColor=1a1b27)
-![PRs Opened](https://img.shields.io/badge/PRs%20Opened-16-38bdae?style=flat-square&labelColor=1a1b27)
-![PRs Merged](https://img.shields.io/badge/PRs%20Merged-15-38bdae?style=flat-square&labelColor=1a1b27)
-![Repositories](https://img.shields.io/badge/Repositories-5-38bdae?style=flat-square&labelColor=1a1b27)
-![Lines Added](https://img.shields.io/badge/Lines%20Added-25,847-38bdae?style=flat-square&labelColor=1a1b27)
-![Lines Removed](https://img.shields.io/badge/Lines%20Removed-13,243-38bdae?style=flat-square&labelColor=1a1b27)
-
-<sub>Feb 9 – Apr 17, 2026</sub>
+![Organization Contributions](topmate-stats.svg)
 
 </div>
 
